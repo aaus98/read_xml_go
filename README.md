@@ -1,2 +1,2 @@
-# server soap with go
-Example of server soap with go
+# Lectura de xml con go
+Ejemplo de lectura de xml con go
